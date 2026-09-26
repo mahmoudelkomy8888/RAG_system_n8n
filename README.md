@@ -55,6 +55,6 @@ An end-to-end, automated Enterprise Knowledge Base Retrieval-Augmented Generatio
 
 ## ✉️ Author & Contact
 **Mahmoud Mohamed Elkomy** — *AI Automation Engineer & RAG Architect*
-* Email: [mahmoud.elkomy8888@gmail.com](mailto:mahmoud.elkomy8888@gmail.com)- 01009234327
+* Email: [mahmoud.elkomy8888@gmail.com](mailto:mahmoud.elkomy8888@gmail.com)-
+* Mobile: 01009234327
 * Location: 10th of Ramadan City, Sharqia, Egypt
-* 
